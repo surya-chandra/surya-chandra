@@ -1,11 +1,5 @@
-<h1 align="center">Hey 👋, I'm Surya Chandra</h1>
-
-<h3 align="center">
- Developer | Curious Mind | Building My Path in Tech
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+something+new+everyday;Turning+ideas+into+code;Future+Full+Stack+Developer" />
+  <img src="https://raw.githubusercontent.com/surya-chandra/surya-chandra/main/banner.svg" />
 </p>
 
 ---
