@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Surya Chandra</h1>
 
 <h3 align="center">
-🚀 Developer | Curious Mind | Building My Path in Tech
+ Developer | Curious Mind | Building My Path in Tech
 </h3>
 
 <p align="center">
