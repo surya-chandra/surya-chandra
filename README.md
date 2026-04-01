@@ -65,9 +65,6 @@ Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 </p>
 
 ---
-
-
----
 ### 🚀 Focus Areas
 
 <p align="center">
