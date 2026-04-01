@@ -21,47 +21,25 @@ Beyond traditional web apps, I’m actively building at the intersection of full
 ---
 
 ### 💻 Tech Stack
+### Tech
 
-#### 🧠 Languages
+**Problem Solving & DSA**
+450+ Problems Solved • Data Structures • Algorithms • Optimization • Edge Case Handling
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-</p>
+**Languages**
+C++ • C • JavaScript (ES6+) • TypeScript • Python • Java
 
-#### 🚀 Frontend & Backend
+**Core Stack**
+MERN (MongoDB, Express, React, Node.js) • SQL (MySQL) • REST APIs • Backend Architecture
 
-<p>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
-</p>
+**AI & Systems**
+AI Agents • LLM-based Systems • Applied ML Algorithms • Automation Workflows • Voice Systems
 
-#### 🗄 Databases
+**Cloud & Infrastructure**
+AWS • API Design & Integration • System Design • Performance Optimization
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
-</p>
-
-#### ☁️ Cloud & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-</p>
-
-#### 🤖 AI & Productivity
-
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000?style=for-the-badge" />
-</p>
+**Tools & Platforms**
+Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 
 ---
 
@@ -119,12 +97,25 @@ Beyond traditional web apps, I’m actively building at the intersection of full
 
 
 ### 📈 Metrics
+### LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Surya-_158790?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
 
 * **LeetCode:** 450+ Problems Solved (Optimization & Edge Cases)
 * **Current Focus:** AI-driven automation + scalable MERN apps
 * **Mindset:** Learn → Build → Improve → Repeat
 
 ---
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surya-chandra&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-chandra&theme=github-dark&hide_border=true" height="160" />
+</p>
+
 
 ### 🔗 Connect with Me
 
