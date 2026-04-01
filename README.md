@@ -20,7 +20,7 @@ Beyond traditional web apps, I’m actively building at the intersection of full
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 ### Tech
 
 **Problem Solving & DSA**
@@ -43,7 +43,7 @@ Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 
 ---
 
-### ⚡ Focus Engine
+###  Focus Engine
 
 <p align="center">
 
@@ -65,7 +65,7 @@ Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 </p>
 
 ---
-### 🚀 Focus Areas
+###  Focus Areas
 
 <p align="center">
 
@@ -79,7 +79,7 @@ Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 
 ---
 
-### 🎯 Current Direction
+###  Current Direction
 
 <p align="center">
 
@@ -93,7 +93,7 @@ Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 ---
 
 
-### 📈 Metrics
+###  Metrics
 ### LeetCode Stats
 
 <p align="center">
@@ -114,6 +114,6 @@ Cursor • Hugging Face • Google Colab • ElevenLabs • Git • Linux
 </p>
 
 
-### 🔗 Connect with Me
+###  Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/suryachandra-maddha-68233228a) • [Portfolio](https://surya-158790-portfolio.netlify.app/) • [Email](mailto:suryachandra7221@gmail.com)
