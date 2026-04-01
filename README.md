@@ -20,14 +20,48 @@ Beyond traditional web apps, I’m actively building at the intersection of full
 
 ---
 
-### 💻 Technical Stack
+### 💻 Tech Stack
 
-| Category           | Skills                                                |
-| :----------------- | :---------------------------------------------------- |
-| **Frontend**       | TypeScript, React.js, Tailwind CSS, JavaScript (ES6+) |
-| **Backend**        | Node.js, Express, SQL, Java (JDBC/Hibernate)          |
-| **AI & ML**        | Hugging Face, ElevenLabs, Cursor, LangChain           |
-| **Infrastructure** | AWS, Git, Google Colab, Linux                         |
+#### 🧠 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+</p>
+
+#### 🚀 Frontend & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" />
+</p>
+
+#### 🗄 Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+</p>
+
+#### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+</p>
+
+#### 🤖 AI & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Colab-000?style=for-the-badge&logo=googlecolab" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000?style=for-the-badge" />
+</p>
 
 ---
 
@@ -50,4 +84,4 @@ Beyond traditional web apps, I’m actively building at the intersection of full
 
 ### 🔗 Connect with Me
 
-[LinkedIn](Your-Link) • [Portfolio](Your-Link) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/suryachandra-maddha-68233228a) • [Portfolio](https://surya-158790-portfolio.netlify.app/) • [Email](mailto:suryachandra7221@gmail.com)
