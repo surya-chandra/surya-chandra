@@ -2,8 +2,7 @@
 
 <p align="center">
 Full-Stack Developer • AI Systems • DSA
-  
-
+  https://komarev.com/ghpvc/?username=surya-chandra&color=blue&style=flat-square
 </p>
 
 <p align="center">
