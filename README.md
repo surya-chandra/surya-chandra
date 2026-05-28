@@ -6,7 +6,7 @@ Full-Stack Developer • AI Systems • DSA
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;450%2B+DSA+Problems+Solved;Full+Stack+%2B+AI;Debugging+Deeply+%26+Thinking+in+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;500%2B+DSA+Problems+Solved;Full+Stack+%2B+AI;Debugging+Deeply+%26+Thinking+in+Systems" />
 </p>
 
 ---
